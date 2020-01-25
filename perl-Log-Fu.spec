@@ -4,7 +4,6 @@
 #
 %define		pdir	Log
 %define		pnam	Fu
-%include	/usr/lib/rpm/macros.perl
 Summary:	Log::Fu - Simplified and developer-friendly screen logging
 Summary(pl.UTF-8):	Log::Fu - uproszczone i przyjazne dla programistów logowanie na ekranie
 Name:		perl-Log-Fu
