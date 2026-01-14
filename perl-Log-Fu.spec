@@ -8,7 +8,7 @@ Summary:	Log::Fu - Simplified and developer-friendly screen logging
 Summary(pl.UTF-8):	Log::Fu - uproszczone i przyjazne dla programistów logowanie na ekranie
 Name:		perl-Log-Fu
 Version:	0.31
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
